@@ -1,0 +1,12 @@
+p{
+    font-family:"arial", Times, serif;
+}
+
+
+p.uppercase {
+    text-transform: uppercase
+}
+
+p.solid {
+    border-style:solid;
+}
